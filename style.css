@@ -1,0 +1,25 @@
+body{
+    background-color: #000000;
+}
+
+p{
+    font-family: 'courier', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #00FF00;
+}
+
+html{
+    font-family: 'courier', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #00FF00;
+}
+
+a{
+    font-family: 'courier', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #00FF00;
+}
+
+img{
+    border-radius: 50%;
+}
