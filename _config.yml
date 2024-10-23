@@ -120,9 +120,9 @@ comments: true
   # Giscus options › https://giscus.app
   giscus:
     repo: vike256/vike256.github.io # <gh-username>/<repo>
-    repo_id: 876826028
+    repo_id: R_kgDONENNrA
     category: Comments
-    category_id:
+    category_id: DIC_kwDONENNrM4CjnA9
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
